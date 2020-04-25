@@ -1,0 +1,13 @@
+current directory: /Users/jiams/Flatiron/Mod_2/rails-form_tag-readme-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/json-1.8.6/ext/json
+/Users/jiams/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/jiams/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200425-34465-1sr5gqq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-form_tag-readme-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-form_tag-readme-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/jiams/Flatiron/Mod_2/rails-form_tag-readme-nyc-web-033020/jiams/.bundle/gems/ruby/2.6.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
