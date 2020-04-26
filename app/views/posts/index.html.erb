@@ -2,5 +2,6 @@
 <ul>
   <% @posts.each do |p| %>
     <li><%= p.title %> - <%= p.description %></li>
+    <li>My post description: <%= link_to p.title, post_path(p) %></li>
   <% end %>
 </ul>
